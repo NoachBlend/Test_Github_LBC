@@ -1,14 +1,4 @@
-def optellen(value1, value2):
-    return value1+value2
-
-
-def aftrekken(value1, value2):
-    return value1 - value2
-
-
-def maal(value1, value2):
-    return value1 * value2
-
+from wiskunde import aftrekken, maal, optellen
 
 print("Dag van uit Github")
 print('Dag 2 van Github')
